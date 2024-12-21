@@ -1,0 +1,11 @@
+hotel_id,hotel_name,location,rating,hotel_experience,amenities,address,country,price
+1,Hotel Paradise Boumerdes,"Rue de l'Amitié, Bordj El Bahri",4.5,Excellent service and beautiful sea views.,Free WiFi; Swimming Pool; Restaurant; Parking,Boulevard de l'Indépendance,Algeria,100
+2,Coastal Comfort Inn,"Rue du Stade, Zemmouri",4.0,Comfortable stay with great food options.,Free Breakfast; Air Conditioning; Free WiFi,Rue de la Plage,Algeria,80
+3,Luxury Stay Boumerdes,"Place de l'Indépendance, Boumerdes Center",4.8,Luxurious rooms with modern amenities.,Gym; Spa; Swimming Pool,Avenue du 1er Novembre,Algeria,120
+4,The Horizon Hotel,"Avenue des Martyrs, Cap Djinet",3.7,"Good location, average service.",Parking; Air Conditioning,Route Nationale 24,Algeria,70
+5,Sea Breeze Resort,"Rue des Palmiers, Corso",4.1,Family-friendly with spacious rooms.,Free WiFi; Gym; Breakfast,Place des Martyrs,Algeria,90
+6,Boumerdes Beach Retreat,"Boulevard de la Corniche, Zemmouri",4.2,Beachfront property with excellent facilities.,Beach Access; Free Parking; Swimming Pool,Corniche de Boumerdes,Algeria,110
+7,Oceanview Suites,"Avenue de la République, Thenia",4.6,Stunning views and a relaxing atmosphere.,Free WiFi; Gym; Restaurant,Boulevard Maritime,Algeria,95
+8,Sunrise Inn,"Rue des Mimosas, Bordj Menaiel",4.3,"Simple, affordable, and clean.",Air Conditioning; Breakfast,Cité des Oasis,Algeria,60
+9,Elegant Comfort Hotel,"Route Nationale 5, El Kharrouba",4.9,Highly recommended for couples.,Free WiFi; Spa; Swimming Pool,Rue des Palmiers,Algeria,130
+10,Boumerdes Boutique Hotel,"Cité 11 Décembre 1960, Boudouaou",4.0,Stylish design and cozy rooms.,Parking; Free Breakfast,Village Touristique,Algeria,75

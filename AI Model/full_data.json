@@ -1,0 +1,152 @@
+[
+    [
+        {
+            "hotel_id": 1,
+            "hotel_name": "Hotel Paradise Boumerdes",
+            "location": "Rue de l'Amitié, Bordj El Bahri",
+            "rating": 4.5,
+            "hotel_experience": "Excellent service and beautiful sea views.",
+            "amenities": [
+                "Free WiFi",
+                "Swimming Pool",
+                "Restaurant",
+                "Parking"
+            ],
+            "address": "Boulevard de l'Indépendance",
+            "country": "Algeria",
+            "price": "100"
+        },
+        {
+            "hotel_id": 2,
+            "hotel_name": "Coastal Comfort Inn",
+            "location": "Rue du Stade, Zemmouri",
+            "rating": 4.0,
+            "hotel_experience": "Comfortable stay with great food options.",
+            "amenities": [
+                "Free Breakfast",
+                "Air Conditioning",
+                "Free WiFi"
+            ],
+            "address": "Rue de la Plage",
+            "country": "Algeria",
+            "price": "80"
+        },
+        {
+            "hotel_id": 3,
+            "hotel_name": "Luxury Stay Boumerdes",
+            "location": "Place de l'Indépendance, Boumerdes Center",
+            "rating": 4.8,
+            "hotel_experience": "Luxurious rooms with modern amenities.",
+            "amenities": [
+                "Gym",
+                "Spa",
+                "Swimming Pool"
+            ],
+            "address": "Avenue du 1er Novembre",
+            "country": "Algeria",
+            "price": "120"
+        },
+        {
+            "hotel_id": 4,
+            "hotel_name": "The Horizon Hotel",
+            "location": "Avenue des Martyrs, Cap Djinet",
+            "rating": 3.7,
+            "hotel_experience": "Good location, average service.",
+            "amenities": [
+                "Parking",
+                "Air Conditioning"
+            ],
+            "address": "Route Nationale 24",
+            "country": "Algeria",
+            "price": "70"
+        },
+        {
+            "hotel_id": 5,
+            "hotel_name": "Sea Breeze Resort",
+            "location": "Rue des Palmiers, Corso",
+            "rating": 4.1,
+            "hotel_experience": "Family-friendly with spacious rooms.",
+            "amenities": [
+                "Free WiFi",
+                "Gym",
+                "Breakfast"
+            ],
+            "address": "Place des Martyrs",
+            "country": "Algeria",
+            "price": "90"
+        },
+        {
+            "hotel_id": 6,
+            "hotel_name": "Boumerdes Beach Retreat",
+            "location": "Boulevard de la Corniche, Zemmouri",
+            "rating": 4.2,
+            "hotel_experience": "Beachfront property with excellent facilities.",
+            "amenities": [
+                "Beach Access",
+                "Free Parking",
+                "Swimming Pool"
+            ],
+            "address": "Corniche de Boumerdes",
+            "country": "Algeria",
+            "price": "110"
+        },
+        {
+            "hotel_id": 7,
+            "hotel_name": "Oceanview Suites",
+            "location": "Avenue de la République, Thenia",
+            "rating": 4.6,
+            "hotel_experience": "Stunning views and a relaxing atmosphere.",
+            "amenities": [
+                "Free WiFi",
+                "Gym",
+                "Restaurant"
+            ],
+            "address": "Boulevard Maritime",
+            "country": "Algeria",
+            "price": "95"
+        },
+        {
+            "hotel_id": 8,
+            "hotel_name": "Sunrise Inn",
+            "location": "Rue des Mimosas, Bordj Menaiel",
+            "rating": 4.3,
+            "hotel_experience": "Simple, affordable, and clean.",
+            "amenities": [
+                "Air Conditioning",
+                "Breakfast"
+            ],
+            "address": "Cité des Oasis",
+            "country": "Algeria",
+            "price": "60"
+        },
+        {
+            "hotel_id": 9,
+            "hotel_name": "Elegant Comfort Hotel",
+            "location": "Route Nationale 5, El Kharrouba",
+            "rating": 4.9,
+            "hotel_experience": "Highly recommended for couples.",
+            "amenities": [
+                "Free WiFi",
+                "Spa",
+                "Swimming Pool"
+            ],
+            "address": "Rue des Palmiers",
+            "country": "Algeria",
+            "price": "130"
+        },
+        {
+            "hotel_id": 10,
+            "hotel_name": "Boumerdes Boutique Hotel",
+            "location": "Cité 11 Décembre 1960, Boudouaou",
+            "rating": 4.0,
+            "hotel_experience": "Stylish design and cozy rooms.",
+            "amenities": [
+                "Parking",
+                "Free Breakfast"
+            ],
+            "address": "Village Touristique",
+            "country": "Algeria",
+            "price": "75"
+        }
+    ]
+]
